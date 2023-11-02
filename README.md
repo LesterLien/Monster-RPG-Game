@@ -1,5 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8896297&assignment_repo_type=AssignmentRepo)
-
 # Text-Based RPG
 
  > Authors: [Oscar Guzman](https://github.com/oscargzman), [Raffe Manzanilla](https://github.com/Katswato), [Lester Lien](https://github.com/LesterLien), [Devin Felix](https://github.com/DvnFx), [Tanishaa Singh](https://github.com/tanishaasingh)
